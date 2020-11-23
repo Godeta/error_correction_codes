@@ -1,0 +1,10 @@
+J'ai regarder les différents algorithme de correction d'erreur :
+
+	- Hamming codes 
+	- Reed-Solomon Codes
+	- Turbo codes
+	- Shannon's paper on information theory
+	- Shor Codes (Pour les ordinateurs quantiques)
+
+Pour commencer je me suis renseigner sur le code de Hamming avec cette vidéo 
+(https://www.youtube.com/watch?v=X8jsijhllIA)
