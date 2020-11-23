@@ -1,0 +1,7 @@
+taches réalisées
+- mise en place d'un groupe discord
+- mis en place d'un github
+- se renseigner sur le sujet :
+	3Blue1Brown : Reinventing Hamming's error correction codes => https://youtu.be/X8jsijhllIA
+	3Blue1Brown : Hamming codes part 2, the elegance of it all => https://www.youtube.com/b3NxrZOu_CE
+	

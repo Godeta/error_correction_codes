@@ -1,4 +1,5 @@
 Pour cette première séance j'ai réalisé diverses tâches telles que :
 - création d'un groupe discord
 - organisation du travail avec github
-- se renseigner sur le sujet (https://youtu.be/X8jsijhllIA )
+- se renseigner sur le sujet (vidéo très intéressante : https://youtu.be/X8jsijhllIA )
+- premier code correcteur de Hamming en python
