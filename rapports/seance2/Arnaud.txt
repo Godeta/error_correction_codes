@@ -1,0 +1,9 @@
+Durant cette séance :
+    - J'ai modifié le code de hammingCode.py (commentaires, affichage de l'erreur)
+    - Explications de M. Secouard sur l'importance d'expliquer la théorie et pourquoi c'est possible
+    - Recherches à approfondir sur : 
+    Code parfait et code MDS -> pourquoi le code de hamming est un code parfait
+    Les codes cycliques : comme BCH et Reed-Solomon -> un code correcteur complexe qui se base sur un polynôme
+    Décodage par syndrome -> son utilisation dans les codes correcteurs d'erreur
+    Utilisation des codes correcteurs d'erreur dans la crypto (Cryptographie à base de codes, Cryptographie post-quantique)
+    - Organisation de la future présentation : histoire créations des codes correcteurs, petit exemples de code, explication théoriques...
