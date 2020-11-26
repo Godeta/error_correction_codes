@@ -1,42 +1,42 @@
-# Enter the Data to be transmitted
-# Calculate the no of redundant bits required
-# Determine the parity bits
-# Create error data for testing
-# Check for errors
+# Entrer les données à transmettre
+# Calculer le nombre de bits redondants à ajouter
+# Déterminer la parité des bits
+# Créer des erreurs dans les données pour tester
+# Vérifier les erreurs
 
 def hammingCodeTest():
     "Test un exemple d'utilisation de Hamming code"
-    # Enter the data to be transmitted 
+    # Entrer les données à transmettre 
     data = '1011001'
     
-    # Calculate the no of Redundant Bits Required 
+    # Calculer le nombre de bits redondants à ajouter 
     m = len(data) 
     r = calcRedundantBits(m) 
     
-    # Determine the positions of Redundant Bits 
+    # Déterminer les positions des bits redondants 
     arr = posRedundantBits(data, r) 
     
-    # Determine the parity bits 
+    # Déterminer la parité des bits 
     arr = calcParityBits(arr, r) 
     
-    # Data to be transferred 
-    print("Data transferred is " + arr)   
+    # Les données à transférer
+    print("Les donnees transferees sont " + arr)   
     
-    # Stimulate error in transmission by changing 
-    # a bit value. 
-    # 10101001110 -> 11101001110, error in 10th position. 
+    # Simuler une erreur dans la transmission en changeant une valeur binaire
+    # 10101001110 -> 11101001110, erreur en dixième position. 
     
-    arr = '11101001110'
-    print("Error Data is " + arr) 
-    correction = detectError(arr, r) 
-    print("The position of error is " + str(correction))
+    arr = '10111001110'
+    print("Les donnees erronees sont " + arr) 
+    # detectError renvoie la position en partant du dernier bit, de façon plus intuitive pour renvoyer la position du bit en prenant le premier pour 1 
+    # j'ai mis la longueur totale des données je sosutrait la position du bit en partant de la fin et j'ajoute 1 (car sinon première position =0)
+    correction = len(arr)-detectError(arr, r) +1 
+    print("La position de l'erreur est " + str(correction))
+    print ("Le bit incorrect est donc "+arr[correction])
     
 def calcRedundantBits(m): 
-  
-    # Use the formula 2 ^ r >= m + r + 1 
-    # to calculate the no of redundant bits. 
-    # Iterate over 0 .. m and return the value 
-    # that satisfies the equation 
+    "Calcule le nombre de bits redondants, autrement dit les bits qui ne portent pas de données mais servent à vérifier la parité"
+    # Utilisation de la formule 2 ^ r >= m + r + 1 
+    # Iteration de 0 à m et retourne la valeur 
   
     for i in range(m): 
         if(2**i >= m + i + 1): 
@@ -44,7 +44,7 @@ def calcRedundantBits(m):
   
   
 def posRedundantBits(data, r): 
-  
+    "Renvoie un tableau contenant la position des bits redondants"
     # Redundancy bits are placed at the positions 
     # which correspond to the power of 2. 
     j = 0
@@ -68,6 +68,7 @@ def posRedundantBits(data, r):
   
   
 def calcParityBits(arr, r): 
+    "Renvoie les données binaires avec les bits de parités ajoutés"
     n = len(arr) 
   
     # For finding rth parity bit, iterate over 
@@ -90,6 +91,7 @@ def calcParityBits(arr, r):
   
   
 def detectError(arr, nr): 
+    "Détecte si il y a une erreur dans des données binaires"
     n = len(arr) 
     res = 0
   
@@ -108,5 +110,5 @@ def detectError(arr, nr):
     # Convert binary to decimal 
     return int(str(res), 2) 
   
-  
+# code executé
 hammingCodeTest()
