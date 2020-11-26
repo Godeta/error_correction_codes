@@ -1,0 +1,1 @@
+Debut de mise en place du code de Hamming en python pour mettre plus tard en commun avec le groupe.
