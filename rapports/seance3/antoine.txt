@@ -1,0 +1,2 @@
+Avec Titouan nouas avons commencer a nous pencher plus sérieusement sur le code hamming
+Notamment un notebook et diapo sur celui ci pour le démontrer et l'expliquer
