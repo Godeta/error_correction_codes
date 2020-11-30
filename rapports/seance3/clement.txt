@@ -1,0 +1,7 @@
+Troisième séance de travail :
+- Recherche approfondis sur le code correcteur Read-Solomon
+- Travail en binome avec M.Godet sur Read-Solomon
+- Compréhension du système d'encodage 
+
+C'est pas très facile en effet
+
