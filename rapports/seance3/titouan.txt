@@ -1,0 +1,2 @@
+Separation du travail en groupe : debut travail en groupe avec Antoine sur le code de Hamming.
+Organisation des fichiers sur le git.
