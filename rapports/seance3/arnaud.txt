@@ -1,0 +1,4 @@
+Durant cette séance :
+    - Nous avons séparé les recherches, Antoine et Titouan ont travaillé sur le code de Hamming et moi et Clement nous sommes penchés sur les codes de Reed-Solomon
+    - Nous avons créé un fichier jupyter dans documentation sur les codes de Reed_Solomon et commencé à le compléter
+    - Recherche de code python pour Reed-Solomon mais c'est vraiment compliqué :/
