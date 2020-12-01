@@ -1,0 +1,4 @@
+Durant cette séance :
+    - Recherche sur les codes cycliques (https://fr.wikipedia.org/wiki/Code_cyclique , https://www.youtube.com/watch?v=FPmFMUoxsiQ)
+    - Domaines de recherche théorie de l'information -> théorie des codes -> codes linéaires -> codes cycliques -> code de Reed-Solomon
+    - Début d'un rapport écrit sur google doc
