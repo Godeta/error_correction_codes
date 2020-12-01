@@ -1,0 +1,1 @@
+Mise en place du script python pour expliquer le fonctionnement de notre code pour Hamming.
