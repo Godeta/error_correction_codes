@@ -1,3 +1,0 @@
-J'ai fait des recherches sur le code de Haming et sa justification
-et sur les "fondements" des codes correcteur, j'ai egalement regarder 
-comment programmer le code de Haming sur python de facons simple
