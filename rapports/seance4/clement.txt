@@ -1,0 +1,3 @@
+Quatrième séance:
+- Etude de code cyclique + exemple 
+- Etude de code linéaire pour le code Cyclique 
