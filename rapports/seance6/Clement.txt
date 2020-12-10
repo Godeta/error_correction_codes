@@ -1,2 +1,3 @@
 Sixième séance :
--
+- J'ai commencé à faire des explications simples pour le code de Reed-Solomon 
+- J'ai fais des exercices avec Arnaud pour mieux comprendre les codes de correcteurs
