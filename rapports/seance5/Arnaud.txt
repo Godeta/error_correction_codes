@@ -1,2 +1,3 @@
 Durant cette séance :
-    - 
+    - Recherche sur la théorie de l'information, les codes linéaires, cycliques...
+    - Début de rédaction d'un document jupyter sur la théorie de l'information

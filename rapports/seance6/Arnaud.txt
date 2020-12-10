@@ -1,0 +1,4 @@
+Durant cette séance :
+    - J'ai fais de petits exercices pour mieux comprendre les codes correcteurs simple
+    - Commencé à mettre en place de petits exemples en python de codes correcteurs et de Reed-Solomon
+    - Planifié la future présentation pour expliquer Reed-Solomon 
