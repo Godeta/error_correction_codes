@@ -1,9 +1,0 @@
-Les codes correcteurs :
-
--> Qu'est ce que c'est ?
-Ce sont des méthodes pour corriger les erreurs dans les données binaires.
-
--> Utilisation :
-A peu près partout, que ce soit pour les disque (lecture laser de données binaires, si il est rayé il y a forcément
- des erreurs mais le disque peut fonctionner grâce aux codes correcteurs) la ram qui peut facilement avoir des erreurs ou simplement
- dans tout type de transmission.
