@@ -1,3 +1,8 @@
+# pip install unireedsolomon
+# pip install pillow
+# python reed_solomon.py -d exampleimage.png
+# décode l'image 
+
 from PIL import Image
 import sys
 

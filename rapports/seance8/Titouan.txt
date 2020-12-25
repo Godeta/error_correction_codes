@@ -1,0 +1,2 @@
+Tentative de réalisation complète de Reed-Solomon en python sans bibliothèque.
+ Quelque soucis, encodage et decodage simples fonctionnent à peu près.

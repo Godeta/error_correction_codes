@@ -1,0 +1,4 @@
+Travail sur la partie Hamming, principalement dans le rapport :
+- ce qu'est un code linéaire
+- qui est richard Hamming
+- comment ça fonctionne

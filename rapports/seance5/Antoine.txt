@@ -1,0 +1,1 @@
+Merge sur le github, modifications documentation jupyter sur Hamming

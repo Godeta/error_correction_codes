@@ -1,0 +1,4 @@
+Durant cette séance :
+    - J'ai testé une implémentation en C de Reed-Solomon dans un rapport de Master
+    - Rajouté des explications dans les Annexes Jupyter
+    - Ajouté des exemples dans le rapport de l'utilisation de Reed-Solomon

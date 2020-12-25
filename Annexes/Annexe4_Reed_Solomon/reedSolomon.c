@@ -1,3 +1,8 @@
+/*
+Disclaimer : ce code provient de http://dspace.calstate.edu/bitstream/handle/10211.2/2732/AlotaibiMasterProject.pdf?sequence=1
+un rapport en master où il montre son code et donne beaucoup d'explications sur Reed-Solomon
+*/
+
 #include <math.h>
 #include <stdio.h>
 #define mm 8 /* RS code over GF(2**8) - change to suit */

@@ -1,0 +1,4 @@
+Huitième séance :
+- J'ai fini la partie codes cycliques sur le rapport
+- Géré la mise en forme du rapport et ajouté des sources 
+- Testé l'implémentation en python de BCH réalisée par Arnaud

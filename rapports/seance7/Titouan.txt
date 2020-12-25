@@ -1,0 +1,1 @@
+Hamming, implémentation python version étendue et non étendue

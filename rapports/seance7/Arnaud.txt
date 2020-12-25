@@ -1,0 +1,4 @@
+Durant cette séance :
+    - J'ai travaillé sur Reed-Solomon, rajouté beaucoup de Sources dans le rapport et lu pas mal de documentation
+    - Réalisé à l'aide d'une bibliothèque une implémentation en python de BCH et de Reed-Solomon
+    - Cherché à comprendre ce que sont les polynomes génerateurs, corps fini... une horreur 
